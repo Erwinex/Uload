@@ -50,4 +50,4 @@ You can run the bot with the command
 
 ## Also read this
 
-I know it can be way more better than it is so if did any change thing and made it better you can always share it whit others 🙂
+I know it can be way better than it is so if did any change thing and made it better you can always share it whit others 🙂
